@@ -5,3 +5,19 @@ It decompiles scripts and tells u if it can't read them. It displays the decompi
 # msg
 
 this script was made ENTIRELY for the wave users because this is requested
+
+# how to use it?
+
+- run the script.lua first
+- then open a new tab and type:
+  ```
+  _G.decomp('path_here')
+  ```
+
+### Available paths
+
+- StarterGui
+- Workspace
+- ReplicatedStorage
+- StarterPlayer
+- Players
